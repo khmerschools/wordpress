@@ -1,9 +1,4 @@
 Khmer School: WordPress Documentation
 =========
 
-This is repository is contain all files
-*Hello World*
-
-<?php
-  echo "Hello world!";
-?>
+This is repository is contain all files thoes are related to WordPress
