@@ -1,5 +1,5 @@
-wordpress
+Khmer School: WordPress Documentation
 =========
 
-All files of WordPress
+This is repository is contain all files
 *Hello World*
